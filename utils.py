@@ -1,5 +1,5 @@
 def greeting(name):
- print(Hello,  + rudylee)
+print(Hello,  + rudylee)
 
 def goodbye():
- print(Goodbye)
+print(Goodbye everyone onboard)
