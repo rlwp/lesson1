@@ -1,1 +1,5 @@
-def greeting(rudylee): print(Hello,  + rudylee)
+def greeting(name):
+ print(Hello,  + rudylee)
+
+def goodbye():
+ print(Goodbye)
